@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"Script2"
+echo "Script2"
